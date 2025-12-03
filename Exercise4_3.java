@@ -22,3 +22,22 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+
+/*
+    Exercise 4.3 Cevaplar
+
+    1. Stack Diyagramı (ping ilk çalıştığında):
+    -------------------------------------------
+    (En üstteki metot şu an çalışandır)
+    
+    [ ping   ] 
+    [ baffle ]
+    [ zoop   ]
+    [ main   ]
+
+    2. Programın Çıktısı:
+    -------------------------------------------
+    No , I  wug.
+     You wugga  wug.
+    I  wug.
+*/
