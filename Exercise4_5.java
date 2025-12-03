@@ -25,3 +25,21 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+
+/*
+
+    1. Stack Diyagramı (zoop metodu 2. kez çalıştığında):
+    -----------------------------------------------------
+    (En üstteki metot şu an aktif olandır)
+
+    [ zoop  ]  fred = " breakfast ", bob = 4
+    [ clink ]  fork = 4
+    [ main  ]  bizz = 5, buzz = 2
+
+    2. Programın Çıktısı:
+    -----------------------------------------------------
+     just for 
+     any  not  more 
+    It ’s  breakfast 
+    !
+*/
