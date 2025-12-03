@@ -1,3 +1,9 @@
+/* 
+AD SOYAD:HASAN KARA
+OGRENCI NUMARA:250541015
+Proje: EXERCİSE 4.5
+Tarih: 03.12.2025
+*/
 public class Exercise4_5 {
 
     public static void zoop(String fred, int bob) {
