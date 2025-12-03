@@ -1,3 +1,9 @@
+/* 
+AD SOYAD:HASAN KARA
+OGRENCI NUMARA:250541015
+Proje: EXERCİSE 4.4
+Tarih: 03.12.2025
+*/
 public class Exercise4_4 {
 
     public static int getNumber() {
