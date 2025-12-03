@@ -1,3 +1,9 @@
+/* 
+AD SOYAD:HASAN KARA
+OGRENCI NUMARA:250541015
+Proje: EXERCİSE 4.1
+Tarih: 03.12.2025
+*/
 public class Exercise4_1 {
 
     public static void printAmerican(String day, int date, String month, int year) {
