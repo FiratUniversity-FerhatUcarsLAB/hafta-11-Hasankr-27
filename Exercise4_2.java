@@ -1,3 +1,9 @@
+/* 
+AD SOYAD:HASAN KARA
+OGRENCI NUMARA:250541015
+Proje: EXERCİSE 4.2
+Tarih: 03.12.2025
+*/
 public class Exercise4_2 {
 
   // Her satirin sonuna calisma sirasi yorumlarini ekleyin.
